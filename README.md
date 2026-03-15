@@ -1,51 +1,55 @@
-# # 👋 Olá, eu sou João Pedro
+# 👋 Olá, eu sou João Pedro
 
-🎓 Estudante de **Sistemas da Informação**  
-💻 Focado em me tornar **Desenvolvedor Back-End Java**  
-🚀 Atualmente estudando **Java, lógica de programação e bancos de dados**
-
----
-
-## 📚 Sobre mim
-
-Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de software.  
-Atualmente estou construindo minha base na área de **desenvolvimento back-end**, com foco em **Java**.
-
-Busco constantemente melhorar minhas habilidades através de **projetos práticos, desafios de lógica e estudo contínuo**.
-
-Meu objetivo é conquistar uma **oportunidade de estágio na área de desenvolvimento** para evoluir profissionalmente e contribuir em projetos reais.
+🎓 Estudante de **Sistemas da Informação**
+💻 Focado em me tornar **Desenvolvedor Back-End Java**
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+## 🚀 Sobre mim
 
-- ☕ Java
-- 🗄️ MySQL
-- 🌐 Git & GitHub
-- 📊 Lógica de Programação
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou construindo uma base sólida em **programação back-end com Java**, focando em lógica de programação, estrutura de código e boas práticas de desenvolvimento.
+
+Gosto de aprender através da prática, desenvolvendo projetos e resolvendo desafios de programação que fortalecem meu raciocínio lógico e minha capacidade de resolver problemas.
+
+Estou constantemente evoluindo minhas habilidades e buscando novos conhecimentos para crescer na área de desenvolvimento e contribuir em projetos cada vez mais desafiadores.
 
 ---
 
-## 📂 Projetos
+## 🛠️ Tecnologias em desenvolvimento
 
-🔹 Sistema Bancário em Java (POO)  
-Projeto simples para simular operações bancárias como:
+* ☕ Java
+* 🗄️ MySQL
+* 🌐 Git & GitHub
+* 📊 Lógica de Programação
+* 🧠 Programação Orientada a Objetos (POO)
 
-- Depósito
-- Saque
-- Consulta de saldo
+---
 
-🔹 Exercícios de Lógica em Java  
-Repositório com desafios de programação para melhorar raciocínio lógico.
+## 💻 Projetos
+
+📌 **Sistema Bancário em Java**
+Projeto desenvolvido para praticar conceitos de Programação Orientada a Objetos, simulando operações bancárias como depósito, saque e consulta de saldo.
+
+📌 **Desafios de Lógica em Java**
+Coleção de exercícios e desafios voltados para fortalecer raciocínio lógico e resolução de problemas.
+
+---
+
+## 📚 Atualmente estudando
+
+* Estrutura de dados em Java
+* Boas práticas de programação
+* Desenvolvimento de aplicações back-end
+* Construção de APIs
 
 ---
 
 ## 📫 Contato
 
-📧 Email: joaopedropavanelo@gmail.com
-💼 LinkedIn: (www.linkedin.com/in/joao-pedro-pavanelo-710a9834a)
+📧 Email: [joaopedropavanelo@gmail.com]
+💼 LinkedIn: www.linkedin.com/in/joao-pedro-pavanelo-710a9834a
 
 ---
 
-⭐ Sempre aprendendo e evoluindo na área de tecnologia.
+⭐ Sempre aprendendo, evoluindo e construindo soluções através da programação.
 
