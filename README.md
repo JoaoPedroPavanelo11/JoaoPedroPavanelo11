@@ -1,55 +1,49 @@
-# 👋 Olá, eu sou João Pedro
+# 👋 Olá, eu sou o João Pedro
 
-🎓 Estudante de **Sistemas da Informação**
-💻 Focado em me tornar **Desenvolvedor Back-End Java**
-
----
-
-## 🚀 Sobre mim
-
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou construindo uma base sólida em **programação back-end com Java**, focando em lógica de programação, estrutura de código e boas práticas de desenvolvimento.
-
-Gosto de aprender através da prática, desenvolvendo projetos e resolvendo desafios de programação que fortalecem meu raciocínio lógico e minha capacidade de resolver problemas.
-
-Estou constantemente evoluindo minhas habilidades e buscando novos conhecimentos para crescer na área de desenvolvimento e contribuir em projetos cada vez mais desafiadores.
+💻 Desenvolvedor Backend em formação  
+🚀 Focado em Java e Spring Boot  
+📚 Buscando minha primeira oportunidade na área de desenvolvimento  
 
 ---
 
-## 🛠️ Tecnologias em desenvolvimento
-
-* ☕ Java
-* 🗄️ MySQL
-* 🌐 Git & GitHub
-* 📊 Lógica de Programação
-* 🧠 Programação Orientada a Objetos (POO)
+## 🧠 Sobre mim
+Sou apaixonado por tecnologia e estou sempre buscando evoluir como desenvolvedor.  
+Atualmente, venho desenvolvendo projetos práticos com foco em simular cenários reais, aplicando boas práticas de programação e organização de código.
 
 ---
 
-## 💻 Projetos
+## 🛠️ Tecnologias e Ferramentas
 
-📌 **Sistema Bancário em Java**
-Projeto desenvolvido para praticar conceitos de Programação Orientada a Objetos, simulando operações bancárias como depósito, saque e consulta de saldo.
-
-📌 **Desafios de Lógica em Java**
-Coleção de exercícios e desafios voltados para fortalecer raciocínio lógico e resolução de problemas.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Atualmente estudando
+## 🚀 Projetos em destaque
 
-* Estrutura de dados em Java
-* Boas práticas de programação
-* Desenvolvimento de aplicações back-end
-* Construção de APIs
+### 💈 Sistema de Barbearia
+Sistema de gerenciamento de agendamentos com foco em organização e praticidade no atendimento.
+
+🔗 Acesse o projeto:  
+https://github.com/JoaoPedroPavanelo11/barbearia
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPavanelo11&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-📧 Email: [joaopedropavanelo@gmail.com]
 💼 LinkedIn: www.linkedin.com/in/joao-pedro-pavanelo-710a9834a
+📧 Email: joaopedropavanelo@gmail.com
 
 ---
 
-⭐ Sempre aprendendo, evoluindo e construindo soluções através da programação.
-
+⭐ Sempre em evolução e aberto a novas oportunidades!
