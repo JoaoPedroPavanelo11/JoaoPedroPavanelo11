@@ -27,10 +27,10 @@ Busco não apenas aprender ferramentas, mas entender conceitos sólidos que me p
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPavanelo11\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11\&show_icons=true\&theme=tokyonight\&cache_seconds=86400)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPavanelo11\&layout=compact\&theme=tokyonight\&cache_seconds=86400)
+
 
 ## 📫 Contato
 
