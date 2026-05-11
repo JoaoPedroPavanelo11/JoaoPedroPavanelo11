@@ -1,42 +1,63 @@
 # 👋 Olá, eu sou o João Pedro
 
-💻 Desenvolvedor Backend em formação
-🚀 Focado em Java e Spring Boot
-📚 Em busca da minha primeira oportunidade na área de desenvolvimento
+💻 Desenvolvedor Full Stack em formação  
+🚀 Focado em Backend com Node.js e Java  
+📚 Estudando continuamente desenvolvimento web e APIs REST  
+🎯 Em busca da primeira oportunidade como Desenvolvedor  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor.
-Tenho me dedicado à construção de projetos práticos com foco em simular cenários reais, aplicando boas práticas como organização de código, orientação a objetos e desenvolvimento de APIs.
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Atualmente estudo e desenvolvo projetos Full Stack utilizando Node.js, Express, JavaScript, MongoDB, HTML, CSS e Java.
 
-Busco não apenas aprender ferramentas, mas entender conceitos sólidos que me permitam crescer de forma consistente na área de desenvolvimento backend.
+Tenho experiência prática criando APIs REST, sistemas CRUD e aplicações web completas, sempre buscando escrever código organizado, escalável e com boas práticas.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+Estou constantemente evoluindo minhas habilidades através de projetos pessoais e estudos diários.
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Tecnologias que utilizo
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11\&show_icons=true\&theme=tokyonight\&cache_seconds=86400)
+<div style="display: inline_block"><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPavanelo11\&layout=compact\&theme=tokyonight\&cache_seconds=86400)
+<img align="center" alt="JavaScript" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
+<img align="center" alt="NodeJS" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="Express" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+
+<img align="center" alt="MongoDB" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+<img align="center" alt="HTML" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<img align="center" alt="Java" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+📚 API Livraria Full Stack (EM ANDAMENTO)  
+🔹 Backend em Node.js + Express  
+🔹 Banco de dados MongoDB  
+🔹 Frontend com HTML, CSS e JavaScript  
+🔹 Sistema CRUD completo para gerenciamento de livros
+
+---
 
 ## 📫 Contato
 
-💼 LinkedIn: [www.linkedin.com/in/joao-pedro-pavanelo-710a9834a](http://www.linkedin.com/in/joao-pedro-pavanelo-710a9834a)
-📧 Email: [joaopedropavanelo@gmail.com](mailto:joaopedropavanelo@gmail.com)
-
----
-
-⭐ Sempre evoluindo e aberto a oportunidades na área de desenvolvimento!
+📧 Email profissional: joaopedropavanelo@gmail.com
+💼 Linkedin : www.linkedin.com/in/joao-pedro-pavanelo-710a9834a
