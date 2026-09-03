@@ -14,13 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=JoaoPedroPavanelo11&label=Visualiza%C3%A7%C3%B5es&color=58A6FF&style=for-the-badge" alt="Profile views">
 </p>
 
-<p align="center">⭐ De um dia sonhando em programar até vender e manter sistemas em produção. ⭐</p>
-
 <br>
 
 ## 🧭 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor **full stack**, com base sólida em back-end e capacidade de tocar um produto de ponta a ponta: modelagem de dados, API, autenticação, integração de pagamento e a interface que o usuário final realmente usa.
+Sou estudante de Sistemas de Informação e desenvolvedor **full stack**, com base sólida em back-end e capacidade de tocar um produto de ponta a ponta: modelagem de dados, API, autenticação, integração de pagamento e a interface que o usuário final realmente usa.
 
 Já **desenvolvi e vendi dois sistemas comerciais em produção**:
 
@@ -82,21 +80,8 @@ Isso me colocou frente a frente com prazo, requisito de cliente real e software 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPavanelo11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JoaoPedroPavanelo11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
-## 📚 Estudando agora
-
-- Arquitetura de software e separação de responsabilidades em APIs
-- Autenticação e segurança de aplicações (JWT, hashing, boas práticas)
-- Testes automatizados e modelagem de banco de dados relacional
 
 <br>
 
