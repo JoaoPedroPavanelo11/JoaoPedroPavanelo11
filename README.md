@@ -51,18 +51,18 @@ Isso me colocou frente a frente com prazo, requisito de cliente real e software 
 
 <p align="center">
   <a href="https://github.com/JoaoPedroPavanelo11/api-agendamento-barbearia-1">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=api-agendamento-barbearia-1&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=api-agendamento-barbearia-1&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/JoaoPedroPavanelo11/event-flow">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=event-flow&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=event-flow&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/JoaoPedroPavanelo11/SubManeger">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=SubManeger&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=SubManeger&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/JoaoPedroPavanelo11/TASK-MANAGER">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=TASK-MANAGER&theme=tokyonight&hide_border=true" />
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoPedroPavanelo11&repo=TASK-MANAGER&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Isso me colocou frente a frente com prazo, requisito de cliente real e software 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroPavanelo11&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPedroPavanelo11&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <br>
